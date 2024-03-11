@@ -1,0 +1,146 @@
+.nav-item{
+    /* margin-left: 60px; */
+}
+.nav-link{
+    margin-left: 40px;
+    font-size: larger;
+    color: black;
+    font-weight: 500;
+}
+.navbar-brand{
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: bolder;
+    /* margin-left: 100px; */
+    /* margin-right: 200px; */
+    padding: 15px;
+}
+.foot {
+    background-color: black;
+    color: white;
+    height: 70px;
+    text-align: center;
+    padding-top: 25px;
+    position: relative;
+}
+.kitchen{
+    text-align: center;
+    line-height: 30px;
+    font-size: x-large;
+    padding: 40px;
+}
+.showbtn{
+    border-radius: 20px; 
+    padding: 10px; 
+    font-weight: bolder; 
+    padding-left: 20px; 
+    padding-right: 20px;
+}
+.imgdiv{
+    /* margin-left: 50px; */
+    padding: 20px;
+    /* padding-left: 80px; */
+}
+.arrivals{
+    margin: 90px;
+    padding: 20px;
+}
+.neatclean{
+    background-image: url("/bootstrap/bootproject/img/app1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+    padding-left: 33%;
+    padding-top: 10%;
+}
+.signup{
+    /* display: flex; */
+    text-align: center;
+    /* margin: 100px; */
+    padding: 50px;
+    background-color: black;
+    color: white;
+}
+.subtn{
+    font-size: large;
+    font-weight: bolder;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    width: 150px;
+    height: 50px;
+}
+ul{
+    margin-top: 40px;
+    /* border: 1px solid black; */
+    margin-left: 500px;
+}
+li{
+    list-style-type: none;
+}
+.applianc{
+    padding: 40px;
+    padding-top: 50px;
+    padding-left: 120px;
+}
+.txt{
+    text-align: center;
+    background-color: rgb(248, 245, 245);
+    padding: 70px;
+}
+.insta{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-top: 70px;
+    background-color: rgb(220, 219, 219);
+}
+.recipe{
+    padding: 60px;
+    text-align: center;
+}
+#btn{
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: rgb(247, 245, 245);
+}
+.search{
+    margin: 20px;
+    padding-left: 1052px;
+}
+.contactdetail{
+     border: 1px solid rgb(126, 125, 125);
+     width: 400px;
+     height: auto;
+     margin: 10px;
+     margin-left: 100px;
+     padding: 40px;
+     border-radius: 10px;
+     background-color: rgb(248, 242, 242);
+}
+td{
+    text-align: center;
+}
+label{
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+textarea{
+    width:188px;
+    margin-top: 20px;
+}
+.cont{
+    background-color: rgb(240, 239, 239);
+}
+.map{
+    margin: 80px;
+}
+@media screen {
+    
+}
